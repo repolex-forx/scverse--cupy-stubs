@@ -1,0 +1,11 @@
+{
+  "org": "scverse",
+  "repo": "cupy-stubs",
+  "versions": [
+    {
+      "commit": "08f2b8ab6bb23bdef1bbfd3bde9b799533a9b5b7",
+      "tag": "v1.2.0",
+      "parsed_at": "2026-10-28T11:11:28.790247+00:00"
+    }
+  ]
+}
