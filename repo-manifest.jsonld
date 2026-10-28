@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scverse/cupy-stubs/commit/08f2b8ab6bb23bdef1bbfd3bde9b799533a9b5b7",
       "git:hexsha": "08f2b8ab6bb23bdef1bbfd3bde9b799533a9b5b7",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.2.0"
     },
     {
